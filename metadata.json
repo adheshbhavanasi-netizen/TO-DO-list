@@ -1,0 +1,6 @@
+{
+  "name": "Smart Task Manager",
+  "description": "A modern, responsive task management dashboard to create, organize, filter, and track tasks with persistent local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
